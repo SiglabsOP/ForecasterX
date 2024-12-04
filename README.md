@@ -1,9 +1,9 @@
 # ForecasterX
 ForecasterX 19.201
 
-Stock Price Forecaster
+ForecasterX
 Overview
-Stock Price Forecaster is a machine learning-based tool for forecasting stock prices using historical data. The application uses LSTM (Long Short-Term Memory) and XGBoost models to predict the next day's stock price based on past data. The project leverages TensorFlow for deep learning, XGBoost for regression, and Tkinter for a graphical user interface (GUI).
+ForecasterX is a machine learning-based tool for forecasting stock prices using historical data. The application uses LSTM (Long Short-Term Memory) and XGBoost models to predict the next day's stock price based on past data. The project leverages TensorFlow for deep learning, XGBoost for regression, and Tkinter for a graphical user interface (GUI).
 
 Features
 LSTM: Time-series forecasting to predict future stock prices based on past data.
